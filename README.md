@@ -2,10 +2,10 @@
 
 <h2>Dependencias</h2>
 
-<p>
-Doctrine ORM
-Modulo independente
-</p>
+<ul>
+	<li>Modulo independente</li>
+	<li>Doctrine ORM</li>
+</ul>
 
 <h2>Banco exemplo</h2>
 
